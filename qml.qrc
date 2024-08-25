@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoginPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>SettingDialog.qml</file>
+        <file>ArpActiveDialog.qml</file>
+        <file>ToolsDialog.qml</file>
+        <file>HelpDialog.qml</file>
+        <file>Accordion.qml</file>
+        <file>EditModal.qml</file>
+        <file>DeleteDialog.qml</file>
+    </qresource>
+</RCC>
